@@ -1,0 +1,13 @@
+body {
+	background-image: url("https://wallpapercave.com/wp/wp2936628.jpg");
+	background-repeat: no-repeat;
+
+}
+
+img {
+	transition: all 1s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
