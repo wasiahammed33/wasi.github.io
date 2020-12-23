@@ -1,0 +1,28 @@
+body{
+	background-image: url("https://images.alphacoders.com/107/1072438.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family:'montserrat';
+}
+h1 {
+	font-size: 50px;
+	text-align: center;
+	color: #ef3d05;
+}
+nav {
+	background-image: url("https://images.wallpapersden.com/image/download/johnny-silverhand-and-male-v-cyberpunk-2077_bGZsbWWUmZqaraWkpJRmbmdlrWZlbWU.jpg");
+	background-repeat: no-repeat;
+	background size: cover;
+}
+ div{
+display:        inline;
+color:          rgb(255 201 4 / 90%);                   
+font-family:    Garamond;
+font-size:      1em;
+padding:        5px 20px;
+}
